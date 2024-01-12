@@ -1,7 +1,3 @@
-<h2>👋 Hi, I’m @sahlbakshi</h2>
+<h3>Hi I’m Sahl</h3>
 
-<p> A computer science student at the University of Waterloo learning to build great software </p> 
-
-<p> I am currenlty into all things full-stack. My tech stack? Anything to build apps with</p>
-
-<p>Feel free to reach out at any of my socials</p>
+<p> A computer science student at the University of Waterloo learning to build great software and am currently all things full-stack building apps end to end</p> 
